@@ -12,7 +12,7 @@
     "docs:serve": "vitepress serve docs"
   },
   "devDependencies": {
-    "@auth0/auth0-spa-js": "^1.17.0",
+    "@auth0/auth0-spa-js": "^2.1.2",
     "vitepress": "^1.0.0-alpha.65",
     "vue": "^3.2.6"
   },
